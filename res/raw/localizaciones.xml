@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localizaciones>
+
+    <localizacion>
+        <titulo>Telepizza</titulo>
+        <fragmento>https://telepizza.com/</fragmento>
+        <etiqueta>Restaurante</etiqueta>
+        <latitud>39.364914</latitud>
+        <longitud>-0.4573032</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Bar el moset</titulo>
+        <fragmento>https://www.facebook.com/mosetpicassent/</fragmento>
+        <etiqueta>Restaurante</etiqueta>
+        <latitud>39.36567</latitud>
+        <longitud>-0.4583949</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>City Oriente</titulo>
+        <fragmento>http://cityorientepicassent.com/</fragmento>
+        <etiqueta>Restaurante</etiqueta>
+        <latitud>39.36567</latitud>
+        <longitud>-0.4605836</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>El Cantonet</titulo>
+        <fragmento>https://es.restaurantguru.com/El-Cantonet-Picassent</fragmento>
+        <etiqueta>Restaurante</etiqueta>
+        <latitud>39.3660793</latitud>
+        <longitud>-0.4597065</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Restaurant Poliesportiu</titulo>
+        <fragmento>https://www.restaurantpoliesportiu.com/</fragmento>
+        <etiqueta>Restaurante</etiqueta>
+        <latitud>39.365064</latitud>
+        <longitud>-0.4574833</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Banco Sabadell</titulo>
+        <fragmento>962564458</fragmento>
+        <etiqueta>Banco</etiqueta>
+        <latitud>39.3618467</latitud>
+        <longitud>-0.4615027</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Bankia</titulo>
+        <fragmento>+34961231899</fragmento>
+        <etiqueta>Banco</etiqueta>
+        <latitud>39.3618467</latitud>
+        <longitud>-0.4615027</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Banco Santander</titulo>
+        <fragmento>+34961240357</fragmento>
+        <etiqueta>Banco</etiqueta>
+        <latitud>39.3624292</latitud>
+        <longitud>-0.4618953</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>BBVA</titulo>
+        <fragmento>961230567 </fragmento>
+        <etiqueta>Banco</etiqueta>
+        <latitud>39.3624292</latitud>
+        <longitud>-0.4618953</longitud>
+    </localizacion>
+
+    <localizacion>
+        <titulo>Caixa popular</titulo>
+        <fragmento>961230567 </fragmento>
+        <etiqueta>Banco</etiqueta>
+        <latitud>39.3619115</latitud>
+        <longitud>-0.4606621</longitud>
+    </localizacion>
+
+</localizaciones>
